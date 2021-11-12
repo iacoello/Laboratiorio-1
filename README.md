@@ -24,6 +24,7 @@ Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley 
 
 * Calcular y comprobar las medidas de voltaje, amperaje y resistencia en un circuito por medio de un multimetro digital en cada uno de sus componentes.
 * Aplicar la Ley de Kirchhoff de Voltajes para comprobar los 
+
 **1.3 MARCO TEÓRICO**
 
 **1.4 EXPLICACIÓN DE PROCEDIMIENTO**
