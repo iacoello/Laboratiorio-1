@@ -18,3 +18,5 @@
 
 
 ![circuito](https://user-images.githubusercontent.com/93800511/141388516-9a2bac9c-3ae8-4558-8be1-bf1e8198a865.png)
+
+<img src="https://latex.codecogs.com/svg.image?VR1=&space;2.05~A\times&space;1k\mho\\~~~~~VR1=&space;2.05~V\\~~~~~IR1=&space;\frac{2.05V}{1k\mho&space;}\\~~~~~IR1=2.05mA&space;&space;&space;" title="VR1= 2.05~A\times 1k\mho\\~~~~~VR1= 2.05~V\\~~~~~IR1= \frac{2.05V}{1k\mho }\\~~~~~IR1=2.05mA " />
