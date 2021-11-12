@@ -42,6 +42,21 @@ Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley 
 
 ![circuito](https://user-images.githubusercontent.com/93800511/141388516-9a2bac9c-3ae8-4558-8be1-bf1e8198a865.png)
 
+//MEDIDA DE OHM//
+
+![Ohm](https://user-images.githubusercontent.com/93800511/141483327-f031ca48-fe64-44de-afe4-7889412e679f.png)
+
+
+//MEDIDA DE VOLT//
+
+![volt](https://user-images.githubusercontent.com/93800511/141483350-9dddcef9-7572-464a-8fe6-e05dbd3fb0c3.png)
+
+
+//MEDIDA DE AMP//
+
+![amp](https://user-images.githubusercontent.com/93800511/141483367-b40a23da-fcfd-4e1e-86f0-4f5e1d953ec3.png)
+
+
 **1.5 RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
 * Primera Tabla: Comparación de mediciones en (V/A/OHM).
