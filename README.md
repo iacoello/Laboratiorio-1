@@ -28,7 +28,17 @@ Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley 
 
 **1.3 MARCO TEÓRICO**
 
+![k ohm](https://user-images.githubusercontent.com/93800511/141481824-87634f6c-dcb1-4cf7-aefd-0b747d6e9fa6.png)
+
 **1.4 EXPLICACIÓN DE PROCEDIMIENTO**
+
+//MATERIALES DE PRACTICA//
+
+![Matertiales](https://user-images.githubusercontent.com/93800511/141478148-5461cf4c-055e-466c-94f9-ca599430efcf.png)
+
+![Diagrama laboratorio](https://user-images.githubusercontent.com/93800511/141481846-51784fa1-ff7f-40b0-bea7-5f6327d50f94.jpeg)
+
+//CONSTRUCCIÓN DEL CIRCUITO EN LA PLATAFORMA DE TINKERCAD//
 
 ![circuito](https://user-images.githubusercontent.com/93800511/141388516-9a2bac9c-3ae8-4558-8be1-bf1e8198a865.png)
 
@@ -50,11 +60,12 @@ Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley 
 
 //Calculo Explicativo//
 
+<img src="https://latex.codecogs.com/svg.image?I=&space;\frac{V}{R}\\~~~~~I=&space;\frac{10&space;V}{6.7k\mho&space;}\\~~~~~I=1.486\\~~~~~V(R2)=&space;I*R\\~~~~~V(R2)=1.486*3,9k\mho\\~~~~~V(R2)=&space;5.822" title="I= \frac{V}{R}\\~~I= \frac{10 V}{6.7k\mho }\\~I=1.486\\~V(R2)= I*R\\~V(R2)=1.486*3,9k\mho\\~~V(R2)= 5.822" />
+
 * Tercera tabla; Verificación por medio de la Ley de Kirchhoff de Corrientes.
 
-![661b5839-7e19-40a8-bf5d-e34d2570cd9b](https://user-images.githubusercontent.com/93800511/141474910-369aa7d0-edf4-4c54-a7c9-36c19d1755fb.jpg)
+![13a71063-0712-4118-8fa8-36c767334fbd](https://user-images.githubusercontent.com/93800511/141481709-db742643-628d-47e7-9e43-7b1a1792fdb8.jpg)
 
-//Calculo Explicativo//
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -66,7 +77,7 @@ https://youtu.be/T9dI9H_5TPE
 
 **1.7 .CONCLUCIONES**
 
-En conclución los procesos realizados de manera práctica con el uso de el sistema Tinkerkad para el desarrollo de circuitos electrónicos permitieron el análisis de las cargas que atraviezan por el circuito construido de manera exacta, ya sea en su medida por trayectorias o por nodos tal y como lo designa la Ley de Kirchhoff de Voltajes y Corrientes, en base a esta práctica pudimos explicar dichas leyes de manera exacta. 
+En conclución los procesos realizados de manera práctica con el uso de el sistema Tinkerkad para el desarrollo de circuitos electrónicos permitieron el análisis de las cargas que atraviezan por el circuito construido de manera exacta, yasea en su medida por trayectorias o por nodos tal y como lo designa la Ley de Kirchhoff de Voltajes y Corrientes, en base a esta práctica pudimos explicar dichas leyes de manera exacta. 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
